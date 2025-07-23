@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} ANALYZER {% endblock %}
+{% block content %}
+<p>HELLO</p>
+{% if items %}
+{% for item in items %}
+<p>{{ item }}</p>
+{% endfor %}
+{% endif %}
+{% endblock %}

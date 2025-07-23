@@ -1,0 +1,27 @@
+Web uygulamaları ve API’ler geliştirmek için Python ve ilgili framework’leri (özellikle Django veya Flask) kullanmak
+
+PostgreSQL, MongoDB gibi veri tabanlarıyla çalışmak
+
+DevOps araçlarıyla (Docker, GitLab CI/CD vb.) entegrasyon sağlamak
+
+Kod kalitesini ve güvenliğini artırmak için test yazmak ve kod gözden geçirmelerine katılmak
+
+Takım içinde çevik yazılım geliştirme süreçlerine dahil olmak
+
+✅ Aranan Nitelikler
+Python ile en az 2 yıl profesyonel yazılım geliştirme deneyimi
+
+Django veya Flask hakkında uygulamalı bilgi
+
+RESTful API’ler tasarlama ve tüketme konularında tecrübe
+
+Versiyon kontrol sistemleriyle (tercihen Git) aktif çalışma alışkanlığı
+
+Takım çalışmasına yatkın, çözüm odaklı ve öğrenmeye açık
+
+💡 Tercih Sebebi Olabilecek Ekstra Özellikler
+Frontend teknolojilerine (React, Vue.js) aşinalık
+
+Bulut servislerinde (AWS, Azure, GCP) proje deneyimi
+
+İngilizce iletişim becerisi
