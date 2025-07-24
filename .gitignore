@@ -12,3 +12,5 @@ env/
 # Environment
 .env
 *.env
+temp/
+test.html
